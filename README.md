@@ -1,2 +1,10 @@
-# Catalogo-Pel-culas
-Gestor de catalogo de películas con Java/Python, MySQL, JSON; XLM
+# Catálogo de Películas
+
+Aplicación para gestionar un catálogo de películas: añadir, buscar,
+modificar y borrar. Proyecto de aprendizaje de 1º DAM.
+
+## Tecnologías previstas
+- Programación (lenguaje del curso)
+- MySQL en Docker
+- Exportación e importación en JSON y XML
+- Git y GitHub
